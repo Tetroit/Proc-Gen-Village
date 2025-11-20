@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 793b1c75fb635fb43b78579c82dd1fcd, type: 3}
+  m_Name: PrefabList
+  m_EditorClassIdentifier: 
+  items:
+  - name: wall
+    prefab: {fileID: 1937552138052694256, guid: 905fe7452bd23734daa167fd34f84a06, type: 3}
+  - name: floor
+    prefab: {fileID: 4374795682447728226, guid: ec8998840becece4890322bf66bc4465, type: 3}
+  - name: roof_straight
+    prefab: {fileID: 5880150124462027384, guid: 33c326addb9fb544dac065ba7415cfc4, type: 3}
+  - name: stairs
+    prefab: {fileID: 4374795682447728226, guid: 20aeba44561821d4db1fbd2210b80527, type: 3}
+  - name: roof_end
+    prefab: {fileID: 5880150124462027384, guid: ad234ce8bb576454e99a3e8a5328c6ea, type: 3}
+  - name: fundament
+    prefab: {fileID: 1937552138052694256, guid: 5dab195d5d426cc4da97042a2de2cf0f, type: 3}
